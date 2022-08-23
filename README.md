@@ -138,7 +138,7 @@
 <summary>접기/펼치기</summary>
 
 - 트리
-- 트리 dp
+  - 트리 dp
 
 </details>
 
