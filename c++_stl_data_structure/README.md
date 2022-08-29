@@ -4,7 +4,7 @@
 - set, unordered_set
 - map, unordered_map
 - [string](https://github.com/LEE026/algorithm-and-data-structure/blob/main/c%2B%2B_stl_data_structure/string.md)
-- queue
+- [queue](https://github.com/LEE026/algorithm-and-data-structure/blob/main/c%2B%2B_stl_data_structure/queue.md)
 - stack
 - priority_queue
 - deque
