@@ -24,7 +24,7 @@
   - 예시: s1==s2
 
 **함수**
-* [vector](https://github.com/LEE026/algorithm-and-data-structure/blob/main/c%2B%2B_stl_data_structure/vector.md)와 함수가 같기에 추가된 함수만을 기록
+###### [vector](https://github.com/LEE026/algorithm-and-data-structure/blob/main/c%2B%2B_stl_data_structure/vector.md)와 함수가 같기에 추가된 함수만을 기록
 
 - s.length()
   - 문자열의 길이를 반환
