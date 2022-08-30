@@ -1,4 +1,4 @@
-# queue
+# stack
 
 **생성자 예시**
 - stack<자료형> st;
