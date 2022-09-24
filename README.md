@@ -78,7 +78,7 @@
 <summary>접기/펼치기</summary>
 
 - 백트래킹
-- 분할정복
+- [분할정복](https://github.com/LEE026/algorithm-and-data-structure/blob/main/divide_and_conquer/divide_and_conquer.md)
 - 브루트 포스
 
 </details>
@@ -93,6 +93,7 @@
   - 정수론
   - 유클리드 호제법
   - 중국인의 나머지 정리
+  - 칸토어 집합
   - 뫼비우스 반전공식
   - 고속 푸리에 변환
   - CCW
