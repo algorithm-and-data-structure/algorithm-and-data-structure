@@ -5,7 +5,7 @@
 - [c++ stl 자료구조](https://github.com/LEE026/algorithm-and-data-structure/tree/main/c%2B%2B_stl_data_structure)
   - [vector](https://github.com/LEE026/algorithm-and-data-structure/blob/main/c%2B%2B_stl_data_structure/vector.md)
   - list
-  - set, unordered_set
+  - [set, unordered_set](https://github.com/LEE026/algorithm-and-data-structure/blob/main/c%2B%2B_stl_data_structure/set.md)
   - map, unordered_map
   - [string](https://github.com/LEE026/algorithm-and-data-structure/blob/main/c%2B%2B_stl_data_structure/string.md)
   - [queue](https://github.com/LEE026/algorithm-and-data-structure/blob/main/c%2B%2B_stl_data_structure/queue.md)
