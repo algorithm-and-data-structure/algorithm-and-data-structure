@@ -30,11 +30,11 @@
 
 ``` c++
 public:
-	void update(int idx, ll num) {
+	void update(int idx, int num) {
 		update(idx, num, 0, last, 1);
 	}
 private:
-	ll update(int idx, ll num, int left, int right, int now) {
+	int update(int idx, int num, int left, int right, int now) {
 		if (idx < left || right < idx) return 0LL;
 
 		ll c = 0;
@@ -60,18 +60,23 @@ private:
 
 ``` c++
 public:
-	ll query(int l, int r) {
+	int query(int l, int r) {
 		return query(l, r, 0, last, 1);
 	}
 private:
-	ll query(int l, int r, int left, int right, int now) {
+	int query(int l, int r, int left, int right, int now) {
 		if (right < l || r < left) return 0LL;
 		if (l <= left && right <= r) return tree[now];
 
 		int mid = (left + right) / 2;
-		ll res = query(l, r, left, mid, now * 2) 
+		int res = query(l, r, left, mid, now * 2) 
 			+ query(l, r, mid + 1, right, now * 2 + 1);
 
 		return res;
 	}
 ```
+
+**세그먼트 트리 구현 추천 문제**
+- 
+
+- https://www.acmicpc.net/problem/2042
