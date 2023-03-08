@@ -43,8 +43,8 @@
 
 - 그래프
   - 그래프 순회
-    - bfs
-    - dfs
+    - [BFS](https://github.com/algorithm-and-data-structure/algorithm-and-data-structure/blob/new_bfs/algorithm-and-data-structure/graph/graph_traversal/BFS.md)
+    - DFS
   - 최단거리 알고리즘
     - 다익스트라
     - 벨만포드
